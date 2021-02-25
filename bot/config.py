@@ -1,13 +1,13 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
+    BOT_TOKEN = "1368042162:AAHtSU6Qs1tD0O11QzYqLw2gcr5LqHlntGs"
+    APP_ID = "795398"
+    API_HASH = "35451417843c0a2c20fe0cb57210eada"
     DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
-    SUPPORT_CHAT_LINK = ""
+    SUDO_USERS = "1509306176" # Sepearted by space.
+    SUPPORT_CHAT_LINK = "https://viperadnan-git.github.io"
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = ""
-    G_DRIVE_CLIENT_SECRET = ""
+    G_DRIVE_CLIENT_ID = "1095551744880-h7i1pbr0fguctc2od3h99rqpmfds9cej.apps.googleusercontent.com"
+    G_DRIVE_CLIENT_SECRET = "-1oPzj_iLw4M46IyA6-zTUH_"
 
 
 class BotCommands:
