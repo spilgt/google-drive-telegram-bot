@@ -2,7 +2,7 @@ class config:
     BOT_TOKEN = "1368042162:AAHtSU6Qs1tD0O11QzYqLw2gcr5LqHlntGs"
     APP_ID = "795398"
     API_HASH = "35451417843c0a2c20fe0cb57210eada"
-    DATABASE_URL = ""
+    DATABASE_URL = "localhost"
     SUDO_USERS = "1509306176" # Sepearted by space.
     SUPPORT_CHAT_LINK = "https://viperadnan-git.github.io"
     DOWNLOAD_DIRECTORY = "./downloads/"
