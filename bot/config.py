@@ -77,20 +77,20 @@ class Messages:
     
     CURRENT_PARENT = "🆔 **您当前的自定义文件夹ID - {}**\n__Use__ ```/{} (Folder link)``` __to change it.__"
     
-    REVOKED = f"🔓 **Revoked current logged account successfully.**\n__Use /{BotCommands.Authorize[0]} to authenticate again and use this bot.__"
+    REVOKED = f"🔓 **成功撤销当前登录的帐户.**\n__Use /{BotCommands.Authorize[0]} 再次进行身份验证并使用该机器人.__"
     
-    NOT_FOLDER_LINK = "❗ **Invalid folder link.**\n__The link you send its not belong to a folder.__"
+    NOT_FOLDER_LINK = "❗ **无效的文件夹链接.**\n__您发送的链接不属于文件夹.__"
     
-    CLONING = "🗂️ **Cloning into Google Drive...**\n__G-Drive Link - {}__"
+    CLONING = "🗂️ **克隆到Google云端硬盘...**\n__G-Drive 链接 - {}__"
     
-    PROVIDE_GDRIVE_URL = "**❗ Provide a valid Google Drive URL along with commmand.**\n__Usage - /{} (GDrive Link)__"
+    PROVIDE_GDRIVE_URL = "**❗ 提供有效的Google云端硬盘网址和命令.**\n__Usage - /{} (GDrive Link)__"
     
-    INSUFFICIENT_PERMISSONS = "❗ **You have insufficient permissions for this file.**\n__File id - {}__"
+    INSUFFICIENT_PERMISSONS = "❗ **您对此文件的权限不足.**\n__File id - {}__"
     
-    DELETED_SUCCESSFULLY = "🗑️✅ **File Deleted Successfully.**\n__File deleted permanently !\nFile id - {}__"
+    DELETED_SUCCESSFULLY = "🗑️✅ **文件删除成功.**\n__档案已永久删除 !\nFile id - {}__"
     
     WENT_WRONG = "⁉️ **ERROR: SOMETHING WENT WRONG**\n__Please try again later.__"
     
-    EMPTY_TRASH = "🗑️🚮**Trash Emptied Successfully !**"
+    EMPTY_TRASH = "🗑️🚮**成功清空垃圾箱 !**"
     
-    PROVIDE_YTDL_LINK = "❗**Provide a valid YouTube-DL supported link.**"
+    PROVIDE_YTDL_LINK = "❗**提供有效的YouTube-DL支持的链接.**"
