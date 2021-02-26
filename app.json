@@ -10,7 +10,7 @@
       "value": "ANYTHING"
     },
     "BOT_TOKEN": {
-      "description": "Get it from @BotFather"
+      "description": "来自@yuesezhenmei_bot"
     },
     "APP_ID": {
       "description": "Your API_ID, Get it from https://my.telegram.org/apps",
