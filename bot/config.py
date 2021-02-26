@@ -7,7 +7,7 @@ class config:
     SUPPORT_CHAT_LINK = "https://viperadnan-git.github.io"
     DOWNLOAD_DIRECTORY = "./downloads/"
     G_DRIVE_CLIENT_ID = "1095551744880-h7i1pbr0fguctc2od3h99rqpmfds9cej.apps.googleusercontent.com"
-    G_DRIVE_CLIENT_SECRET = "-1oPzj_iLw4M46IyA6-zTUH_"
+    G_DRIVE_CLIENT_SECRET = "1BZQPnneHMb90uuY8jFY1pfpAWJat8meo"
 
 
 class BotCommands:
