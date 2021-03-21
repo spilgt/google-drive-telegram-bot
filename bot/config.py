@@ -6,8 +6,8 @@ class config:
     SUDO_USERS = "1509306176" # Sepearted by space.
     SUPPORT_CHAT_LINK = "https://viperadnan-git.github.io"
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = "1095551744880-h7i1pbr0fguctc2od3h99rqpmfds9cej.apps.googleusercontent.com"
-    G_DRIVE_CLIENT_SECRET = "1BZQPnneHMb90uuY8jFY1pfpAWJat8meo"
+    G_DRIVE_CLIENT_ID = "821280247929-nha7q269n9aivh5cfi5ntd9ffs620q9i.apps.googleusercontent.com"
+    G_DRIVE_CLIENT_SECRET = "_qp-RE9b6R8oWyVUwdAKl6pU"
 
 
 class BotCommands:
