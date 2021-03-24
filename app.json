@@ -34,7 +34,7 @@
     },
     "G_DRIVE_CLIENT_ID": {
       "description": "Google Drive Client ID from Google Cloud Platform",
-      "value": "1041636077786-e39mmfseb392id2n80i53c5bufkcagpk.apps.googleusercontent.com"
+      "value": "1041636077786-e39mmfseb392id2n80i53c5bufkcagpk.apps.googleusercontent.com",
     },
     "G_DRIVE_CLIENT_SECRET": {
       "description": "Google Drive Client Secret from Google Cloud Platform",
