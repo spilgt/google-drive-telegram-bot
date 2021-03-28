@@ -1,6 +1,6 @@
 wget
 asyncio
-pyrogram==0.10.2
+pyrogram==1.2.5
 tgcrypto
 oauth2client
 psycopg2-binary
